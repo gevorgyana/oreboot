@@ -1,3 +1,6 @@
+dummy_thing:
+- echo_fool
+  echo 'fool'
 trigger:
 - master
 
